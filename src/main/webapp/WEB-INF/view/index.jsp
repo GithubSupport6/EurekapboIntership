@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="title">
-        <h2>Spring-not-boot is little harder than i expected</h2>
+        <h2>Spring-not-boot is kinda hard</h2>
     </div>
 
     <div class = "data-container">
