@@ -21,11 +21,11 @@
         </div>
 
        <div class = "sub-container">
-            <h3>Name : ${name}</h3>
+            <h3>Computer name : ${name}</h3>
         </div>
 
         <div class = "sub-container">
-            <h3>All memory : ${allMem} bytes</h3>
+            <h3>Total memory : ${allMem} bytes</h3>
         </div>
 
         <div class = "sub-container">

@@ -19,7 +19,7 @@ public class TimeServiceImpl implements TimeService {
     @Override
     public String getCurrTime() {
         logger.info("Getting time ... ");
-        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("hh:mm");
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("HH:mm");
         return simpleDateFormat.format(new Date());
     }
 }
