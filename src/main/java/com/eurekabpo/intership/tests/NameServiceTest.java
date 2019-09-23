@@ -1,8 +1,7 @@
 package com.eurekabpo.intership.tests;
 
-import com.eurekabpo.intership.services.BeanConfiguration;
+import com.eurekabpo.intership.config.BeanConfiguration;
 import com.eurekabpo.intership.services.NameService;
-import com.eurekabpo.intership.services.implementations.NameServiceImpl;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

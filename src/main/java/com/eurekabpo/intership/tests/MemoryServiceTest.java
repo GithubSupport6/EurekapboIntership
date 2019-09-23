@@ -1,6 +1,6 @@
 package com.eurekabpo.intership.tests;
 
-import com.eurekabpo.intership.services.BeanConfiguration;
+import com.eurekabpo.intership.config.BeanConfiguration;
 import com.eurekabpo.intership.services.MemoryService;
 import org.junit.Assert;
 import org.junit.Test;
